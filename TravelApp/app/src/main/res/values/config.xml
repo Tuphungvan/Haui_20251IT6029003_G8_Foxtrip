@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Railway URL -->
+
+    <string name="base_url">http://192.168.32.101:3000/</string>
+
+</resources>

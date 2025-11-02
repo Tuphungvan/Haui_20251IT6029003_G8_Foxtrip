@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2bb3d6a-824f-48cc-ba41-172ce8774f78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Backendd/app/controllers/ChatbotController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backendd/app/controllers/CheckoutController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backendd/app/controllers/ProfileController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backendd/app/models/Wallet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backendd/routes/chatbot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backendd/routes/checkout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backendd/routes/profile.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Vu" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../../AppServ/php7/php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34uGHJBdcOlnbcmNEqXlj0XtNuz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "tuyen",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/Documents/GitHub/Haui_20251IT6029003_G8_Foxtrip/Backendd",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Documents\GitHub\Haui_20251IT6029003_G8_Foxtrip\Backendd" />
+      <recent name="C:\Users\admin\Documents\GitHub\Haui_20251IT6029003_G8_Foxtrip\app\backend\routes" />
+      <recent name="C:\Users\admin\Documents\GitHub\Haui_20251IT6029003_G8_Foxtrip\app\backend\controller" />
+      <recent name="C:\Users\admin\Documents\GitHub\Haui_20251IT6029003_G8_Foxtrip\app\backend\model" />
+      <recent name="C:\Users\admin\Documents\GitHub\Haui_20251IT6029003_G8_Foxtrip\app\backend\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Documents\GitHub\Haui_20251IT6029003_G8_Foxtrip\app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2bb3d6a-824f-48cc-ba41-172ce8774f78" name="Changes" comment="" />
+      <created>1762055955500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762055955500</updated>
+      <workItem from="1762055958084" duration="373000" />
+      <workItem from="1762078048080" duration="2165000" />
+      <workItem from="1762098577161" duration="738000" />
+      <workItem from="1762099358646" duration="1286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

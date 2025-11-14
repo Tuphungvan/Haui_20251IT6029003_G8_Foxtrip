@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Railway URL -->
+    <string name="base_url">https://foxtripbackendfull.onrender.com</string>
+<!--    <string name="base_url">http://172.28.14.224:3000/</string>-->
+    <string name="google_client_id" translatable="false">685405252741-sdu9gbrjr8vjkpkkeo8k9h34m4d3f8pp.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">2318491295261619</string>
+    <string name="facebook_client_token">6add4c49dea9547767fa41bd0cf1b11c</string>
+    <string name="fb_login_protocol_scheme">fb2318491295261619</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685405252741",
+    "project_id": "ttravel-chatbot",
+    "storage_bucket": "ttravel-chatbot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685405252741:android:87c5d66ddf4020ea90cdec",
+        "android_client_info": {
+          "package_name": "vn.androidhaui.foxtrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685405252741-2p4dk6ske82m91al42u1i6pqq4pc43jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.androidhaui.foxtrip",
+            "certificate_hash": "e197c384136bff3bcb9d32b30bd1fa91bed79404"
+          }
+        },
+        {
+          "client_id": "685405252741-sdu9gbrjr8vjkpkkeo8k9h34m4d3f8pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDuRxcrbUdUmVAhWJOamDHyzuTAxpsPL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685405252741-sdu9gbrjr8vjkpkkeo8k9h34m4d3f8pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

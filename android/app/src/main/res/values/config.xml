@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Railway URL -->
+    <string name="base_url">https://foxtripbackendv1.onrender.com</string>
+<!--    <string name="base_url">http://10.189.165.224:3000/</string>-->
+
+</resources>

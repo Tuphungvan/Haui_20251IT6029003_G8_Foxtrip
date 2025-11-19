@@ -11,7 +11,7 @@ public class User {
     private String address;
     private boolean admin;
 
-    @SerializedName("superadmin") // ✅ THÊM ANNOTATION NÀY
+    @SerializedName("superadmin")
     private boolean superAdmin;
 
     private boolean active;
